@@ -54,3 +54,19 @@ var a = '129.56';
 var b = Number.isFinite(a);
 console.log(b);
 
+
+// isInteger()
+
+var a = 129.56;
+var b = Number.isInteger(a);
+console.log(b);
+
+
+var a = 123;
+var b = Number.isInteger(a);
+console.log(b);
+
+
+var a = '129.56';
+var b = Number.isInteger(a);
+console.log(b);
