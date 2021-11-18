@@ -27,3 +27,18 @@ var a = 'hello';
 var b = parseInt(a);
 console.log(b);
 
+
+// parseFloat (it gives the value with decimals)
+
+var a = 59;
+var b = parseFloat(a);
+console.log(b);
+
+var a = 122.56;
+var b = parseFloat(a);
+console.log(b);
+
+
+var a = 'he was 50';
+var b = parseFloat(a);
+console.log(b);
