@@ -42,3 +42,15 @@ console.log(b);
 var a = 'he was 50';
 var b = parseFloat(a);
 console.log(b);
+
+// isFinite()
+
+var a = 129.56;
+var b = Number.isFinite(a);
+console.log(b);
+
+
+var a = '129.56';
+var b = Number.isFinite(a);
+console.log(b);
+
