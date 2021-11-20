@@ -70,3 +70,27 @@ console.log(b);
 var a = '129.56';
 var b = Number.isInteger(a);
 console.log(b);
+
+ // toFixed(it fixes the decimals)(it roundsabout the decimal)
+
+var a = 129.5573;
+var b = a.toFixed(2);
+console.log(b);
+
+
+var a = 12.51367;
+var b = a.toFixed(3);
+console.log(b);
+
+// toPrecision (it will give you total number)(it also roundsabout)
+
+var a = 31.5573;
+var b = a.toPrecision(3);
+console.log(b);
+
+var a = 31.5573;
+var b = a.toPrecision(2);
+console.log(b);
+
+
+
