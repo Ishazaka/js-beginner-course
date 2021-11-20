@@ -92,5 +92,11 @@ var a = 31.5573;
 var b = a.toPrecision(2);
 console.log(b);
 
+// Date Methods
+
+var a = new Date();
+console.log(a);
+document.write(a);
+document.write('<br>')
 
 
