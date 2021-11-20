@@ -106,3 +106,10 @@ console.log(a.toDateString());
 document.write(a.toDateString());
 document.write('<br>')
 
+
+// getDate method
+
+var a = new Date();
+console.log(a.getDate());
+document.write(a.getDate() );
+document.write('<br>')
