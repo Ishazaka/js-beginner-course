@@ -99,4 +99,10 @@ console.log(a);
 document.write(a);
 document.write('<br>')
 
+// toDateString Method
+ 
+ var a = new Date();
+console.log(a.toDateString());
+document.write(a.toDateString());
+document.write('<br>')
 
