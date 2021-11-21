@@ -145,4 +145,10 @@ document.write(a.getMilliseconds());
 document.write('<br>')
 
 
+var a = new Date();
+console.log(a.getSeconds());
+document.write(a.getMinutes());
+document.write('<br>')
 
+
+// Get Past dates and times
