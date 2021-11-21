@@ -125,5 +125,18 @@ document.write(a.getMonth());
 document.write('<br>')
 
 
+var a = new Date();
+console.log(a.getDay());
+document.write(a.getDay());
+document.write('<br>')
+
+//  get date use in real life
+
+var a = new Date();
+console.log(a.getDate() +'/'+ a.getMonth()+'/' +a.getFullYear());
+document.write(a.getDate() +'/'+ a.getMonth()+'/' +a.getFullYear());
+document.write('<br>')
+
+
 
 
