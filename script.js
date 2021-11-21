@@ -113,3 +113,17 @@ var a = new Date();
 console.log(a.getDate());
 document.write(a.getDate() );
 document.write('<br>')
+
+var a = new Date();
+console.log(a.getFullYear());
+document.write(a.getFullYear() );
+document.write('<br>')
+
+var a = new Date();
+console.log(a.getMonth());
+document.write(a.getMonth());
+document.write('<br>')
+
+
+
+
