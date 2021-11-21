@@ -137,6 +137,12 @@ console.log(a.getDate() +'/'+ a.getMonth()+'/' +a.getFullYear());
 document.write(a.getDate() +'/'+ a.getMonth()+'/' +a.getFullYear());
 document.write('<br>')
 
+//get  times
+
+var a = new Date();
+console.log(a.getHours());
+document.write(a.getMilliseconds());
+document.write('<br>')
 
 
 
