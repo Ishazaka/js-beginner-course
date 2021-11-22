@@ -164,3 +164,10 @@ console.log(a.getSeconds());
 document.write(a.getHours());
 document.write('<br>')
 
+// Set times (its to set time of future )
+
+var a = new Date();
+a.setDate(20);
+console.log(a);
+document.write(a);
+document.write('<br>')
