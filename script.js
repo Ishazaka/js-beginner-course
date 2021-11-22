@@ -171,3 +171,9 @@ a.setDate(20);
 console.log(a);
 document.write(a);
 document.write('<br>')
+
+
+var a = new Date();
+a.setYear(2025);
+console.log(a);
+document.write(a);
