@@ -177,3 +177,12 @@ var a = new Date();
 a.setYear(2025);
 console.log(a);
 document.write(a);
+
+
+var a = new Date();
+a.setHours(20);
+console.log(a);
+
+
+// Dom Methods
+
