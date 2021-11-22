@@ -158,3 +158,9 @@ console.log(a.getDay());
 document.write(a.getDate());
 document.write('<br>')
 
+
+var a = new Date('january 5 2018');
+console.log(a.getSeconds());
+document.write(a.getHours());
+document.write('<br>')
+
