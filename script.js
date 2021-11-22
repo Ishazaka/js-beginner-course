@@ -152,3 +152,9 @@ document.write('<br>')
 
 
 // Get Past dates and times
+
+var a = new Date('january 5 2018');
+console.log(a.getDay());
+document.write(a.getDate());
+document.write('<br>')
+
