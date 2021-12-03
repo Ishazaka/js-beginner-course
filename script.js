@@ -186,4 +186,3 @@ console.log(a);
 // Dom Methods
 
 
-
