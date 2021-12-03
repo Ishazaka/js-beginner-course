@@ -1,5 +1,4 @@
 
-
 // Number Methods
 
 //Number (converts the value into numnber)
